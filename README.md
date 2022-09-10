@@ -1,5 +1,5 @@
 # ThreadPool
 
-Native c++ thread pool realisation
+C++ thread pool realisation
 
 [habr](https://habr.com/ru/post/656515/)
